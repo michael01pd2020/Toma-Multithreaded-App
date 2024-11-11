@@ -1,0 +1,12 @@
+{
+    "name": "multithread",
+    "module": "src/main.ts",
+    "type": "module",
+    "scripts": {
+      "start": "bun run src/main.ts",
+      "dev": "bun --watch run src/main.ts"
+    },
+    "devDependencies": {
+      "@types/bun": "latest"
+    }
+  }
